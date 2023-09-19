@@ -6,6 +6,9 @@
    
 
 <br>   
+
+<a href="https://github.com/chdohun"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchdohun&count_bg=%2374C8FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Pick+me&edge_flat=false"/></a>
+<br>
 :books:Skills
    <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge?style=flat&logo=Python&logoColor=white">
