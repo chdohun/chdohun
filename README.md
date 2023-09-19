@@ -41,6 +41,4 @@ _______
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chdohun)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhdohun)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/chdohun"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thank%20you%20for%20reading%20my%20post.&fontSize=25&fontAlignY=70"/></a>
